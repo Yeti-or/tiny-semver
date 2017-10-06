@@ -1,0 +1,26 @@
+{
+  "name": "tiny-semver",
+  "version": "0.0.0",
+  "description": "tiny semver to compare versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-or/tiny-semver.git"
+  },
+  "keywords": [
+    "semver",
+    "tiny",
+    "compare",
+    "versions",
+    "small"
+  ],
+  "author": "Vasiliy Loginevskiy <yeti.or@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yeti-or/tiny-semver/issues"
+  },
+  "homepage": "https://github.com/Yeti-or/tiny-semver#readme"
+}
